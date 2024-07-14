@@ -1,0 +1,17 @@
+
+
+.filterBar{
+    padding-top: 50px;
+    width: 50%;
+    margin-left: auto;
+    padding-right: 18px;
+    margin-bottom: 48px;
+}
+
+@media (max-width: 991px){
+    .filterBar{
+        width: 100%;
+        padding-right: 0px;
+    }
+}
+
